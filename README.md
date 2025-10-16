@@ -1,6 +1,6 @@
 
 
-# BIS Standards Revision Project (2025 Drafts) 🛠️🇮🇳
+# BIS Standards Revision Project (2025 Drafts)
 
 This repository contains the revised drafts for three critical Indian Standards (IS) documents developed in alignment with modern industry practices and international standards (like ISO). These drafts were created as part of a revision project, modernizing specifications for Coated Abrasives, Boxing Gloves, and Punching Balls.
 
